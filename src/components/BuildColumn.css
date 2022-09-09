@@ -1,0 +1,6 @@
+.Column > .Square:nth-child(2n){
+background-color: white;
+}
+.ColumnShift > .Square:nth-child(2n+1){
+  background-color: white;
+}
